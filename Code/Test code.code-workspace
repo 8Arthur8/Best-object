@@ -1,0 +1,14 @@
+{
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "pwa-msedge",
+				"request": "launch",
+				"name": "Open index.html",
+				"file": "c:\\Users\\barth\\Desktop\\Code\\index.html" 
+				git
+			}
+		]
+	}
+}
